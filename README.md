@@ -1,7 +1,7 @@
 ### Hello, World! Eu sou o Samuel! :)
 
 - 🤓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 📒 No momento estou procurando me aprofundar em Javascript e Flutter
+- 📒 No momento estou procurando me aprofundar em Javascript
 - 🚀 Gostaria de me envolver em projetos com desenvolvimento web ou mobile
 
 <div align="center">
