@@ -2,7 +2,7 @@
 
 - 🤓 Estou cursando Análise e Desenvolvimento de Sistemas (2° semestre)
 - 📒 No momento estou descobrindo e explorando algumas áreas do desenvolvimento como web e mobile
-- 🚀 Gostaria de me envolver em projetos nos quais me traga crescimento profissional e pessoal
+- 🚀 Gostaria de me envolver em projetos nos quais me tragam crescimento profissional e pessoal
 
 <div align="center">
   <a href="https://github.com/SamuelLRibeiro">
