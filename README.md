@@ -1,8 +1,8 @@
 ### Hello, World! Eu sou o Samuel! :)
 
 - 🤓 Estou cursando Análise e Desenvolvimento de Sistemas (2° semestre)
-- 📒 No momento estou descobrindo e explorando algumas áreas do desenvolvimento como web e mobile
-- 🚀 Gostaria de me envolver em projetos nos quais me tragam crescimento profissional e pessoal
+- 📒 No momento estou descobrindo e explorando algumas áreas do desenvolvimento, com a ajuda da faculdade e cursos online
+- 🚀 Quero me envolver em projetos nos quais me tragam crescimento profissional e pessoal
 
 <div align="center">
   <a href="https://github.com/SamuelLRibeiro">
