@@ -4,6 +4,10 @@
 - 📒 No momento estou descobrindo e explorando algumas áreas do desenvolvimento, com a ajuda da faculdade e cursos online
 - 🚀 Quero me envolver em projetos nos quais me tragam crescimento profissional e pessoal
 
+
+
+**WORKING: Perfil em atualização!🚧**
+
 <div align="center">
   <a href="https://github.com/SamuelLRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelLRibeiro&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
