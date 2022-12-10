@@ -1,12 +1,11 @@
 ### Hello, World! Eu sou o Samuel! :)
 
 - 🤓 Estou cursando Análise e Desenvolvimento de Sistemas (3° semestre)
-- 📒 No momento estou descobrindo e explorando algumas áreas do desenvolvimento, com a ajuda da faculdade e cursos online
+- 📒 No momento estou descobrindo e explorando as áreas mobile e web
 - 🚀 Quero me envolver em projetos nos quais me tragam crescimento profissional e pessoal
 
 
 
-**WORKING: Perfil em atualização!🚧**
 
 <div align="center">
   <a href="https://github.com/SamuelLRibeiro">
@@ -14,11 +13,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLRibeiro&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Samuel-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+    <img align="center" alt="Samuel-FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+    <img align="center" alt="Samuel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Samuel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
 ##
