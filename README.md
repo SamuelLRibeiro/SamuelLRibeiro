@@ -1,6 +1,6 @@
 ### Hello, World! Eu sou o Samuel! :)
 
-- 🤓 Estou cursando Análise e Desenvolvimento de Sistemas (3° semestre)
+- 🤓 Estou cursando Análise e Desenvolvimento de Sistemas (4° semestre)
 - 📒 No momento estou descobrindo e explorando as áreas mobile e web
 - 🚀 Quero me envolver em projetos nos quais me tragam crescimento profissional e pessoal
 
