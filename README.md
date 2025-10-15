@@ -11,7 +11,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelLRibeiro&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLRibeiro&layout=compact&langs_count=7&theme=calm"/>
 </div>
-
+    
+<div>
+  <h2>Tecnologias que trabalho</h2>
+</div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Samuel-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
     <img align="center" alt="Samuel-FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
