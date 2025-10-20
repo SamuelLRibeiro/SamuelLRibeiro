@@ -1,34 +1,47 @@
-### Hello, World! Eu sou o Samuel! :)
+# 👋 Olá, Mundo! Eu sou o Samuel! :)
 
-- 🤓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 📒 No momento estou descobrindo e explorando as áreas mobile e web
-- 🚀 Quero me envolver em projetos nos quais me tragam crescimento profissional e pessoal
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🌐 Atualmente explorando as áreas **Mobile** e **Web**  
+🚀 Buscando oportunidades que proporcionem **crescimento pessoal e profissional**  
 
-
+---
 
 <div align="center">
   <a href="https://github.com/SamuelLRibeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelLRibeiro&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLRibeiro&layout=compact&langs_count=7&theme=calm"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelLRibeiro&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLRibeiro&layout=compact&langs_count=7&theme=calm" />
+  </a>
 </div>
-    
-<div>
-  <h2>Tecnologias que trabalho</h2>
-</div>
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br>
-    <img align="center" alt="Samuel-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-    <img align="center" alt="Samuel-FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-    <img align="center" alt="Samuel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-    <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Samuel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>
-  
-##
+
+---
+
+## 🌍 Onde me encontrar
+
 <div> 
-  <a href = "mailto:samuellr@rede.ulbra.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-lamego-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/samueleeer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:samuellr@rede.ulbra.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-lamego-ribeiro/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/samueleeer" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
+
+---
