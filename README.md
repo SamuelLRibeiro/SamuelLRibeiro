@@ -1,6 +1,6 @@
 # 👋 Olá, Mundo! Eu sou o Samuel! :)
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🎓 **Análise e Desenvolvimento de Sistemas**  
 🌐 Atualmente explorando as áreas **Mobile** e **Web**  
 🚀 Buscando oportunidades que proporcionem **crescimento pessoal e profissional**  
 
