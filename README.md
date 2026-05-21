@@ -1,8 +1,8 @@
 # 👋 Olá, Mundo! Eu sou o Samuel! :)
 
 **Análise e Desenvolvimento de Sistemas**  
-Tenho foco em back-end 
-Buscando oportunidades no momento  
+- Tenho foco em back-end 
+- Buscando oportunidades no momento  
 
 ---
 
