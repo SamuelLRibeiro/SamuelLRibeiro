@@ -1,12 +1,12 @@
 # 👋 Olá, Mundo! Eu sou o Samuel! :)
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-🌐 Atualmente explorando as áreas **Mobile** e **Web**  
-🚀 Buscando oportunidades que proporcionem **crescimento pessoal e profissional**  
+**Análise e Desenvolvimento de Sistemas**  
+Tenho foco em back-end 
+Buscando oportunidades no momento  
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas que eu utilizo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌍 Onde me encontrar
+##  Como falar comigo
 
 <div> 
   <a href="mailto:samuellr@rede.ulbra.br" target="_blank">
